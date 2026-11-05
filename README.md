@@ -36,4 +36,3 @@ python calculator.py
 ## 👨‍💻 Author
 **Roshan 18**
 
-*Built as part of my Python learning journey.*
