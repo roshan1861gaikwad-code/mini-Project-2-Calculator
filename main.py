@@ -15,7 +15,7 @@ elif operator == "*":
 
 elif operator == "/":
     if num2 == 0:
-        print("meet Harendra Lega, Shirish pathak and JD")
+        print("meet Harendra Lega")
     else:
         print("Result:", num1 / num2)
 
